@@ -1,0 +1,3 @@
+#!/bin/sh
+curl --user rathna:1810801e44c623ceac86d5bb8f276658  http://localhost:8082/job/Build/build?token=ausdj4537
+echo "jenkins from an external script"
